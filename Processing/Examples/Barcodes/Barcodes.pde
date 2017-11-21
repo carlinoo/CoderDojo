@@ -58,5 +58,18 @@ void draw() {
 //    stroke(255);
 //    strokeWeight(4);
 //   line(position[i], 0, position[i], height);
-//   i++;
+//   i = i + 1;
 //  }
+
+
+
+
+
+// PART 3
+//int i = 0;
+
+//for (i = 0; i < number; i++) {
+//  stroke(255);
+//  strokeWeight(4);
+//  line(position[i], 0, position[i], height);
+//}
