@@ -14,8 +14,8 @@ class Dog {
   
   //draw eyebrow
   strokeWeight(4);
-  line(x - 40, y - 30, 222, 220);
-  line(x + 40, y - 30, 278, 220);
+  line(x - 40, y - 30, x - 28, y - 30);
+  line(x + 40, y - 30, x + 28, y - 30);
   
   //draw ear
   fill(0);
