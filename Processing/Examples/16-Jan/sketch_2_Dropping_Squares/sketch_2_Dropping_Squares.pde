@@ -3,20 +3,20 @@
 // the square will move where the user clicked on the screen
 
 
-Square square;
 
 void setup() {
   size(600, 600);
-  square = new Square();
   
 }
 
 
 void draw() {
   background(41); 
-  square.show();
+
 }
 
+// When the mouse is pressed, make the square move where the mouse is
+// hint: mouseX and mouseY
 void mousePressed() {
-  square.move();
+  
 }
